@@ -1,0 +1,4 @@
+node{
+ stage(mvn clean install){
+ }
+ }
